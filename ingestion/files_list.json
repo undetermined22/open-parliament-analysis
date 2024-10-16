@@ -1,0 +1,52 @@
+{
+    "oral_10": {
+        "type": "oral",
+        "legislation": 10,
+        "sources": [
+            "ma-questions-orales-sessions-2016-2021.xlsx"
+        ],
+        "output": "ma-questions-orales-sessions-2016-2021.parquet"
+    },
+    "written_10": {
+        "type": "written",
+        "legislation": 10,
+        "sources": [
+            "ma-questions-ecrite-sessions-2016-2021.xlsx"
+        ],
+        "output": "ma-questions-ecrites-sessions-2016-2021.parquet"
+    },
+    "written_11": {
+        "type": "written",
+        "legislation": 11,
+        "sources": [
+            "ma-questions-ecrites-2021-octobre.xlsx",
+            "ma-questions-ecrites-2022-avril.xlsx",
+            "ma-questions-ecrites-2022-octobre.xlsx",
+            "ma-questions-ecrites-2023-avril.xlsx",
+            "ma-questions-ecrites-2023-octobre.xlsx",
+            "ma-questions-ecrites-entre-sessions-2021-octobre-2022-avril.xlsx",
+            "ma-questions-ecrites-entre-sessions-2022-avril-2022-octobre.xlsx",
+            "ma-questions-ecrites-entre-sessions-2022-octobre-2023-avril.xlsx",
+            "ma-questions-ecrites-entre-sessions-2023-avril-2023-octobre.xlsx",
+            "ma-questions-ecrites-entre-sessions-2023-octobre-2024-avril.xlsx"
+        ],
+        "output": "ma-questions-ecrites-sessions-2021-2024.parquet"
+    },
+    "oral_11": {
+        "type": "oral",
+        "legislation": 11,
+        "sources": [
+            "ma-questions-orales-2021-octobre.xlsx",
+            "ma-questions-orales-2022-avril.xlsx",
+            "ma-questions-orales-2022-octobre.xlsx",
+            "ma-questions-orales-2023-avril.xlsx",
+            "ma-questions-orales-2023-octobre.xlsx",
+            "ma-questions-orales-entre-sessions-2021-octobre-2022-avril.xlsx",
+            "ma-questions-orales-entre-sessions-2022-avril-2022-octobre.xlsx",
+            "ma-questions-orales-entre-sessions-2022-octobre-2023-avril.xlsx",
+            "ma-questions-orales-entre-sessions-2023-avril-2023-octobre.xlsx",
+            "ma-questions-orales-entre-sessions-2023-octobre-2024-avril.xlsx"
+        ],
+        "output": "ma-questions-orales-sessions-2021-2024.parquet"
+    }
+}
